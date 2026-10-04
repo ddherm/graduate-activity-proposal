@@ -1,0 +1,383 @@
+{
+  "schema_version": "1.1",
+  "academic_year": "2026-2027",
+  "source": {
+    "title": "关于开展华南理工大学研究生会2026-2027学年“揭榜挂帅”项目竞标的通知",
+    "issued": "2026-09-28",
+    "sha256": "2c359458f5f84d51a380a8824537d0f862baeca3e4576f4566fc615397d83377",
+    "page_count": 10,
+    "verified_on": "2026-10-03",
+    "verification": "完整文本提取；第2—5页项目表与第8—10页规则、附件清单已视觉复核",
+    "bundled": false
+  },
+  "semester_time_resolution": "保留通知原文；按2026-2027学年解释跨年区间时，10月-4月通常对应2026年10月至2027年4月，此为学年解释；实际日期由项目方确定",
+  "budget_amount_policy": "通知未公布经费定额、各级奖励额度或单项支出上限，null表示未公布，绝不表示0元",
+  "blank_policy": "null/空对象表示原表未明确，不可改写为不限；—为原文标示",
+  "school_projects": [
+    {
+      "id": "B1",
+      "name": "“权益小贴士”系列推送",
+      "category": "权益类",
+      "department": "权益部",
+      "count": "4-6",
+      "time": "2-3次/学期",
+      "location": "—",
+      "joint_count": "1/次",
+      "campus_counts": {
+        "五山校区": "3",
+        "大学城校区": "3"
+      },
+      "notes": "不参与竞标，不占参与竞标的数额，发放招募书以及推文征集",
+      "status": "recruitment_not_bid",
+      "page": 2,
+      "budget_amount": null
+    },
+    {
+      "id": "B2",
+      "name": "“我为学校发展规划建言献策”暨“十大提案”征集活动决赛",
+      "category": "权益类",
+      "department": "权益部",
+      "count": "1",
+      "time": "10月",
+      "location": "待定",
+      "joint_count": "4",
+      "campus_counts": {
+        "五山校区": "2-3",
+        "大学城校区": "1-2"
+      },
+      "notes": "申报学院需保证活动现场工作人员数量",
+      "status": "open_bid",
+      "page": 2,
+      "validation": {
+        "total": 4,
+        "valid_campus_combinations": [
+          {
+            "五山校区": 2,
+            "大学城校区": 2
+          },
+          {
+            "五山校区": 3,
+            "大学城校区": 1
+          }
+        ]
+      },
+      "budget_amount": null
+    },
+    {
+      "id": "B3",
+      "name": "“权心权益”系列活动之走进名企",
+      "category": "权益类",
+      "department": "权益部",
+      "count": "3-5",
+      "time": "10月-4月",
+      "location": "—",
+      "joint_count": "1-3/次",
+      "campus_counts": {
+        "校区": "不限",
+        "数量": "不限"
+      },
+      "notes": "",
+      "status": "open_bid",
+      "page": 2,
+      "budget_amount": null
+    },
+    {
+      "id": "B4",
+      "name": "“权心权益”系列活动之职点迷津",
+      "category": "权益类",
+      "department": "权益部",
+      "count": "2-3",
+      "time": "10月-4月",
+      "location": "一校三区",
+      "joint_count": "4",
+      "campus_counts": {
+        "五山校区": "2-3",
+        "大学城校区": "1-2"
+      },
+      "notes": "求职系列讲座",
+      "status": "open_bid",
+      "page": 3,
+      "validation": {
+        "total": 4,
+        "valid_campus_combinations": [
+          {
+            "五山校区": 2,
+            "大学城校区": 2
+          },
+          {
+            "五山校区": 3,
+            "大学城校区": 1
+          }
+        ]
+      },
+      "budget_amount": null
+    },
+    {
+      "id": "C1",
+      "name": "“学术达人”系列人物采访",
+      "category": "学术类",
+      "department": "学术部",
+      "count": "6-8",
+      "time": "10月-6月",
+      "location": "—",
+      "joint_count": null,
+      "campus_counts": {},
+      "notes": "不参与竞标，10月会发放招募书以及推文",
+      "status": "recruitment_not_bid",
+      "page": 3,
+      "budget_amount": null
+    },
+    {
+      "id": "C2",
+      "name": "“科研宝典”系列推送",
+      "category": "学术类",
+      "department": "学术部",
+      "count": "6-8",
+      "time": "12月-6月",
+      "location": "—",
+      "joint_count": null,
+      "campus_counts": {},
+      "notes": "不参与竞标，11月会发放招募书以及推文",
+      "status": "recruitment_not_bid",
+      "page": 3,
+      "budget_amount": null
+    },
+    {
+      "id": "D1",
+      "name": "柠檬音乐节",
+      "category": "文艺类",
+      "department": "文艺部",
+      "count": "1",
+      "time": "10月12日",
+      "location": "广州国际校区",
+      "joint_count": "14",
+      "campus_counts": {
+        "五山校区": "9",
+        "大学城校区": "5"
+      },
+      "notes": "已完成竞标",
+      "status": "bidding_completed",
+      "page": 3,
+      "budget_amount": null
+    },
+    {
+      "id": "D2",
+      "name": "春日雅集活动",
+      "category": "文艺类",
+      "department": "文艺部",
+      "count": "1",
+      "time": "3-5月",
+      "location": "五山校区",
+      "joint_count": "6-8",
+      "campus_counts": {
+        "五山校区": "3-4",
+        "大学城校区": "3-4"
+      },
+      "notes": "",
+      "status": "open_bid",
+      "page": 3,
+      "budget_amount": null
+    },
+    {
+      "id": "E1",
+      "name": "篮球联赛",
+      "category": "体育类",
+      "department": "体育部",
+      "count": "1",
+      "time": "10月17日-11月",
+      "location": "五山校区、广州国际校区",
+      "joint_count": "9",
+      "campus_counts": {
+        "五山校区": "5",
+        "广州国际校区": "4"
+      },
+      "notes": "申报学院需指派负责人统筹各项工作、保证部分活动现场工作人员数量、动员志愿者",
+      "status": "open_bid",
+      "page": 4,
+      "budget_amount": null
+    },
+    {
+      "id": "E2",
+      "name": "羽毛球联赛",
+      "category": "体育类",
+      "department": "体育部",
+      "count": "1",
+      "time": "次年4月-5月",
+      "location": "一校三区",
+      "joint_count": "7",
+      "campus_counts": {
+        "五山校区": "3",
+        "大学城校区": "2",
+        "广州国际校区": "2"
+      },
+      "notes": "申报学院需指派负责人统筹各项工作、保证部分活动现场工作人员数量、动员志愿者",
+      "status": "open_bid",
+      "page": 4,
+      "budget_amount": null
+    },
+    {
+      "id": "F1",
+      "name": "“遇见华园”系列活动",
+      "category": "宣传类",
+      "department": "宣传部",
+      "count": "3",
+      "time": "1-2期/学期",
+      "location": "—",
+      "joint_count": "2/次",
+      "campus_counts": {},
+      "notes": "",
+      "status": "open_bid",
+      "page": 4,
+      "budget_amount": null
+    }
+  ],
+  "college_levels": [
+    {
+      "key": "A_思想引领",
+      "official_name": "A级学院特色活动",
+      "count": "1",
+      "time": "全年",
+      "location": "不限",
+      "joint_max": 6,
+      "notes": "",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "思想引领类",
+      "content_category_requirement": "思想引领类"
+    },
+    {
+      "key": "A_素质拓展",
+      "official_name": "A级学院特色活动",
+      "count": "1",
+      "time": "全年",
+      "location": "不限",
+      "joint_max": 6,
+      "notes": "",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "素质拓展类",
+      "content_category_requirement": "素质拓展类"
+    },
+    {
+      "key": "A_全类型",
+      "official_name": "A级学院特色活动",
+      "count": "1",
+      "time": "全年",
+      "location": "不限",
+      "joint_max": 6,
+      "notes": "",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "全类型",
+      "content_category_requirement": "另按实际方案确认四类内容类别之一；命题活动和全类型为招标表档位标签"
+    },
+    {
+      "key": "A_命题",
+      "official_name": "A级学院特色活动",
+      "count": "1",
+      "time": "10月-11月",
+      "location": "不限（备注指定广州国际校区）",
+      "joint_max": 7,
+      "notes": "在广州国际校区举行的大型新生体育活动",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "命题活动",
+      "content_category_requirement": "另按实际方案确认四类内容类别之一；命题活动和全类型为招标表档位标签"
+    },
+    {
+      "key": "B_全类型",
+      "official_name": "B级学院特色活动",
+      "count": "≤4",
+      "time": "全年",
+      "location": "不限",
+      "joint_max": 4,
+      "notes": "",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "全类型",
+      "content_category_requirement": "另按实际方案确认四类内容类别之一；命题活动和全类型为招标表档位标签"
+    },
+    {
+      "key": "C_全类型",
+      "official_name": "C级学院特色活动",
+      "count": "≤4",
+      "time": "全年",
+      "location": "不限",
+      "joint_max": 4,
+      "notes": "",
+      "department": "对应指导部门",
+      "campus_counts": {
+        "五山校区": "不限",
+        "大学城校区": "不限"
+      },
+      "budget_amount": null,
+      "page": 5,
+      "table_category": "全类型",
+      "content_category_requirement": "另按实际方案确认四类内容类别之一；命题活动和全类型为招标表档位标签"
+    }
+  ],
+  "global": {
+    "school_lead_max": 2,
+    "school_additional_participation_max": 6,
+    "lead_included_in_participation": false,
+    "submission_deadline": "2026-10-08T21:00:00+08:00",
+    "review_date": "2026-10-11",
+    "review_date_tentative": true,
+    "review_location": "五山校区，具体地点待通知",
+    "college_defense_minutes": [
+      4,
+      6
+    ],
+    "college_defense_slide_count": null,
+    "college_categories": [
+      "思想引领类",
+      "学术思辨类",
+      "素质拓展类",
+      "社会实践类"
+    ],
+    "assessment_weights": {
+      "participating_college_peer_review": 0.5,
+      "school_graduate_union": 0.5
+    },
+    "assessment_dimensions": [
+      "活动策划",
+      "活动执行",
+      "活动宣传",
+      "活动成效"
+    ],
+    "assessment_detail_status": "待后续通知",
+    "font_and_spacing_rules": "本PDF仅要求遵守校研究生会文档格式，称见文末注释，但10页文件没有对应注释；须使用附件模板/补充格式说明",
+    "source_anomalies": [
+      "第5页（二）误标校级活动，内容与第6—7页对应学院特色活动",
+      "第8—9页注意事项编号2重复",
+      "通知四.1并列列举附件1、2，但模板名称和用户要求支持按申报类型分支；如组织方另有口径，以补充通知为准"
+    ],
+    "category_field_note": "school_projects.category为校级项目类别；college_levels.table_category忠实记录第5页表列；申报的内容类别另按第6—7页四类记录，勿混填。",
+    "submission_email_note": "公开版未收录；请核对使用者持有的当年通知。"
+  }
+}

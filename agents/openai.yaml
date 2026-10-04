@@ -1,0 +1,6 @@
+interface:
+  display_name: "研会活动立项申报"
+  short_description: "核对当年通知，遵循指定样本格式，原位填写并润色研会活动Word附件"
+  default_prompt: "使用 $graduate-activity-proposal，依据当年通知和已记录的格式基准，在指定原附件中完成研会活动立项材料。"
+policy:
+  allow_implicit_invocation: true

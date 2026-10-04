@@ -1,0 +1,52 @@
+{
+  "edition": "public",
+  "academic_year": "2026-2027",
+  "checked_on": "2026-10-04",
+  "omitted": [
+    "含联络信息的通知原PDF",
+    "已填写申报书",
+    "照片和个人联系方式",
+    "本机路径"
+  ],
+  "files": [
+    {
+      "bundled_path": "assets/templates/附件1 XX学院参与校级活动竞标汇总表.docx",
+      "source_label": "2026—2027学年官方空附件，由项目维护者提供",
+      "source_sha256": "13cbbfdb7a1e885d8f666fefc292501aa297f2f2953e50058917dc8999ed1968",
+      "sha256": "4ecddf1f6ecea2ed0485e1b1e50072189250fe451cb9c2bf34eec64f4139dfaf",
+      "bytes": 14494,
+      "modification": "仅清除作者、最近修改者和最后打印时间等个人元数据；文档文字、版式与图片部件未改。"
+    },
+    {
+      "bundled_path": "assets/templates/附件2 活动竞标申报表.docx",
+      "source_label": "2026—2027学年官方空附件，由项目维护者提供",
+      "source_sha256": "7a4a4882a45299666123cdffd147551bb597d8024b861c569dabbb64ec14efc3",
+      "sha256": "e773b3439d837801bdd7914e73dbb2c547e81130e28698dc21009de5ef3e8d30",
+      "bytes": 23256,
+      "modification": "仅清除作者、最近修改者和最后打印时间等个人元数据；文档文字、版式与图片部件未改。"
+    },
+    {
+      "bundled_path": "assets/templates/附件3 活动竞标申报书.docx",
+      "source_label": "2026—2027学年官方空附件，由项目维护者提供",
+      "source_sha256": "6192e2966791408fa9224c377b17c9218636ee4be5839806c282f8698d048957",
+      "sha256": "f419b950e29e8803f8d8325ee7c4c541bb6d1397017fb3c8d7f73c221c511884",
+      "bytes": 405459,
+      "modification": "仅清除作者、最近修改者和最后打印时间等个人元数据；文档文字、版式与图片部件未改。"
+    },
+    {
+      "bundled_path": "assets/templates/附件4 活动竞标策划书.docx",
+      "source_label": "2026—2027学年官方空附件，由项目维护者提供",
+      "source_sha256": "cfd73bf138faa559d7ba79fcad9928d8dbe632d5acc51ba87845f31138e333da",
+      "sha256": "e420a5e3146ccf9228bc68b97c9e9b5be105b0de5c9d2906cd77b1023367d1ad",
+      "bytes": 446076,
+      "modification": "仅清除作者、最近修改者和最后打印时间等个人元数据；文档文字、版式与图片部件未改。"
+    },
+    {
+      "bundled_path": "references/humanizer-zh.md",
+      "source_label": "Humanizer-zh 本地修订快照，2026-09-23",
+      "sha256": "95627fd4437d886f98032ccc62d79136e6310f1fc04e354bb86431795ff206df",
+      "license": "MIT",
+      "license_path": "licenses/humanizer-zh-MIT.txt"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source_sha256": "4ecddf1f6ecea2ed0485e1b1e50072189250fe451cb9c2bf34eec64f4139dfaf",
+  "operations": [
+    {
+      "target": "body.p1.run1",
+      "expect": "X",
+      "text": "甲"
+    },
+    {
+      "target": "body.p1.run2",
+      "expect": "X",
+      "text": ""
+    },
+    {
+      "target": "body.p1.run3",
+      "expect": "学院】",
+      "text": "学院｜教学测试，非申报材料】"
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run0",
+      "expect": "方正仿宋",
+      "text": ""
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run1",
+      "expect": "GBK",
+      "text": ""
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run2",
+      "expect": " ",
+      "text": ""
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run3",
+      "expect": "   ",
+      "text": ""
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run4",
+      "expect": "X",
+      "text": "甲"
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run5",
+      "expect": "X",
+      "text": ""
+    },
+    {
+      "target": "body.t0.r0.c1.p0.run6",
+      "expect": "学院研究生会",
+      "text": "学院研究生会（匿名教学测试）"
+    }
+  ]
+}
